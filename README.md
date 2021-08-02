@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pawan Kumar.
 - 👀 I’m interested in mathematical and computational oncology.
 - 🌱 I’m currently learning git, ML, DL.
-- 💞️ I’m looking to collaborate on glioma modeling.
+- 💞️ I’m looking to collaborate on tumor growth (glioma/..) modeling.
 - 📫 How to reach me: kumar-at-mathematik.uni-kl.de.
 
 <!---
