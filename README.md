@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Pawan
+- 👋 Hi, I’m Pawan Kumar.
 - 👀 I’m interested in mathematical and computational oncology.
 - 🌱 I’m currently learning git, ML, DL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: kumar-at-mathematik.uni-kl.de
+- 💞️ I’m looking to collaborate on glioma modeling.
+- 📫 How to reach me: kumar-at-mathematik.uni-kl.de.
 
 <!---
 its-Pa1/its-Pa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
