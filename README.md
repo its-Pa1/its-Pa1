@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematical and computational oncology.
 - 🌱 I’m currently learning ML, DL.
 - 💞️ I’m working on mathematical modeling of melanoma.
-- 📫 How to reach me: pawan.kumar1@umontpellier.fr
+- 📫 
 
 <!---
 its-Pa1/its-Pa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
