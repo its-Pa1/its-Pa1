@@ -1,10 +1,10 @@
 👋 Greetings, I'm Pawan Kumar.
 
-👀 My interests lie in the mathematical and computational modeling of intricate physical and biological processes.
+👀 My interests lie in the mathematical and computational modeling of complex physical and biological processes.
 
 🌱 Currently, I am delving into the utilization of AI in mechanistic modeling.
 
-💞️ My ongoing work revolves around PDE-based mechanistic modeling, specifically focusing on tumor oxygenation.
+💻 My ongoing work focuses on modeling and simulating ovarian follicles, integrating single-cell dynamics into population-level models to gain deeper insights.
 
 
 <!---
