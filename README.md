@@ -4,7 +4,7 @@
 
 🌱 Currently, I am delving into the utilization of AI in mechanistic modeling.
 
-💻 My ongoing work focuses on modeling and simulating ovarian follicles, integrating single-cell dynamics into population-level models to gain deeper insights...
+💻 My ongoing work focuses on modeling and simulating ovarian follicles, integrating single-cell dynamics into population-level models to gain deeper insights.
 
 
 <!---
